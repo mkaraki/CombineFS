@@ -12,4 +12,6 @@ graph LR;
 
 ## Usage
 
-Currently, you have to edit `Program.cs` to change mount point and directory to combine files.
+```shell
+CombineFS.exe Directory1 Directory2 ... MountPoint
+```
