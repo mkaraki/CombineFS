@@ -13,5 +13,5 @@ graph LR;
 ## Usage
 
 ```shell
-CombineFS.exe Directory1 Directory2 ... MountPoint
+combinefs Directory1 Directory2 ... MountPoint
 ```
